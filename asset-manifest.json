@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seaside-cafe/static/css/main.1052cb25.css",
+    "main.js": "/seaside-cafe/static/js/main.8a19bf5f.js",
+    "index.html": "/seaside-cafe/index.html",
+    "main.1052cb25.css.map": "/seaside-cafe/static/css/main.1052cb25.css.map",
+    "main.8a19bf5f.js.map": "/seaside-cafe/static/js/main.8a19bf5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1052cb25.css",
+    "static/js/main.8a19bf5f.js"
+  ]
+}
